@@ -1,0 +1,42 @@
+/** 
+Styles
+**/
+
+h1 {
+    font-size: 58px;
+    text-align: center;
+    font-family: 'Courier New', Courier, sans-serif;
+}
+
+h2 {
+    background-color: aquamarine;
+}
+
+p {
+    font-style: italic;
+}
+
+ul li {
+    color: blue;
+}
+
+
+
+/** Images **/
+
+#bacon {
+    height: auto;
+    width: 300px;
+    border-radius: 20%;
+}
+
+#waffles {
+    height: auto;
+    width: 300px;
+    filter:grayscale(50%);
+}
+
+#smoothie {
+    height: auto;
+    width: 300px;
+}
